@@ -2,6 +2,9 @@
   "name": "gotapp",
   "version": "0.1.0",
   "private": true,
+  "engines"{
+    "node": "16.20.2"
+  },
   "dependencies": {
     "bootstrap": "^4.2.1",
     "enzyme-adapter-react-16": "^1.8.0",
